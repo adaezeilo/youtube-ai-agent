@@ -20,7 +20,7 @@ The automation is broken down into 4 main sections:
 
 1. **Schedule Trigger** – Triggers the workflow hourly.
 2. **Google Sheets** – Fetches input rows for video topics.
-3. **Basic LLM Chain** – Uses OpenAI Chat Model (GPT) and Structured Output Parser to:
+3. **Basic LLM Chain** – Uses OpenAI Chat Model (GPT) and Structured Output Parser to:[image alt](image_https://github.com/adaezeilo/youtube-ai-agent/blob/5bffc6c18f14101beee7300eb2aef0254aecf18c/basic%20llm%20chain.png)
    - Generate YouTube video scripts
    - Create prompts for visuals
 
