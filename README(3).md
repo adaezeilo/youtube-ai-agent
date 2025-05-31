@@ -96,12 +96,6 @@ Use **OpenAI Image (DALL·E)** node or another generator.
 
 ---
 
-## 📷 Example Screenshots
-
-📌 *To be added manually by taking screenshots of each node configuration in n8n.*
-
----
-
 ## ✅ Tips
 
 - Chain nodes properly with success outputs.
