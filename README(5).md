@@ -51,7 +51,7 @@ The automation is broken down into 4 main sections:
 ## FINAL OUTPUT
 
 1. **Error Log1** – Writes success/failure to Google Sheet.[image alt](image_https://github.com/adaezeilo/youtube-ai-agent/blob/a428c9f07e2538e994f33dcbe6df3ba96b0aa0c0/error%20log1.png)
-2. **HTTP Request2** – Sends final confirmation or download link.
+2. **HTTP Request2** – Sends final confirmation or download link.[image alt](image-https://github.com/adaezeilo/youtube-ai-agent/blob/210a63621fb12bce8f9ede041f34c645d65021bf/http%20request2.png)
 3. **YouTube Upload** – Publishes the generated video to your YouTube channel.[image alt](image_https://github.com/adaezeilo/youtube-ai-agent/blob/433fa33535f3ca44ae7aa394d7b0276c694178dc/YOUTUBE.png)
 4. **Error Log2** – Logs any final upload issues for debugging.[image alt](image_https://github.com/adaezeilo/youtube-ai-agent/blob/1131b7c52ca2a86975ff569d98439d4e880eb00d/ERROR%20LOG2.png)
 
