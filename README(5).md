@@ -1,10 +1,10 @@
-# 🎥 Longform YouTube Video Automation using n8n
+#  Longform YouTube Video Automation using n8n
 
 This project automates the creation and upload of longform YouTube videos on an **hourly schedule** using [n8n](https://n8n.io/). It integrates Google Sheets, OpenAI (LLM), json2video, and YouTube.
 
 ---
 
-## 📌 Workflow Overview
+##  Workflow Overview
 
 The automation is broken down into 4 main sections:
 
@@ -16,7 +16,7 @@ The automation is broken down into 4 main sections:
 
 ---
 
-## 🧠 INPUT
+## INPUT
 
 1. **Schedule Trigger** – Triggers the workflow hourly.
 2. **Google Sheets** – Fetches input rows for video topics.
@@ -26,13 +26,13 @@ The automation is broken down into 4 main sections:
 
 ---
 
-## 🎞️ GENERATE VIDEO AND AUDIO
+## GENERATE VIDEO AND AUDIO
 
 1. **Google Sheets1** – Stores the structured script and prompts for tracking and reference.
 
 ---
 
-## 🎬 GENERATE FULL VIDEOS
+## GENERATE FULL VIDEOS
 
 1. **HTTP Request** – Sends data to the json2video API to generate the video.
 2. **Wait (120 sec)** – Waits for the video to finish rendering.
@@ -40,7 +40,7 @@ The automation is broken down into 4 main sections:
 
 ---
 
-## ⚠️ HANDLE ERRORS
+## HANDLE ERRORS
 
 1. **Switch** – Branches the logic depending on success/failure.
 2. **Wait (30 sec)** – Adds a buffer before retries or error handling.
@@ -48,7 +48,7 @@ The automation is broken down into 4 main sections:
 
 ---
 
-## 📤 FINAL OUTPUT
+## FINAL OUTPUT
 
 1. **Error Log1** – Writes success/failure to Google Sheet.
 2. **HTTP Request2** – Sends final confirmation or download link.
@@ -57,7 +57,7 @@ The automation is broken down into 4 main sections:
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 > You can upload and embed screenshots of your n8n workflow here:
 
@@ -67,7 +67,7 @@ The automation is broken down into 4 main sections:
 
 ---
 
-## 🔧 Requirements
+## Requirements
 
 - n8n (Self-hosted or n8n.cloud)
 - Google Sheets API access
@@ -77,7 +77,7 @@ The automation is broken down into 4 main sections:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repo or replicate the structure in your local n8n.
 2. Create necessary credentials in n8n (Google Sheets, OpenAI, etc.).
@@ -87,7 +87,7 @@ The automation is broken down into 4 main sections:
 
 ---
 
-## 📦 Output
+##  Output
 
 - Auto-generated video scripts
 - Narrated longform YouTube videos
@@ -95,7 +95,7 @@ The automation is broken down into 4 main sections:
 
 ---
 
-## 🙌 Credits
+## Credits
 
 Made using:
 - [n8n.io](https://n8n.io/)
@@ -105,10 +105,6 @@ Made using:
 
 ---
 
-## 🧠 Author
 
-**Your Name Here**  
-💼 Role: Automation Developer  
-🔗 GitHub: [@yourusername](https://github.com/yourusername)
 
 ---
