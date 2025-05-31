@@ -28,7 +28,7 @@ The automation is broken down into 4 main sections:
 
 ## GENERATE VIDEO AND AUDIO
 
-1. **Google Sheets1** – Stores the structured script and prompts for tracking and reference.
+1. **Google Sheets1** – Stores the structured script and prompts for tracking and reference.[image alt](image_https://github.com/adaezeilo/youtube-ai-agent/blob/80757d0c34185fb85b50c0e1b8292d8179b61161/google%20sheet1.png)
 
 ---
 
