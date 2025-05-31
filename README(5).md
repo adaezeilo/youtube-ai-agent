@@ -57,12 +57,7 @@ The automation is broken down into 4 main sections:
 
 ---
 
-## Screenshots
 
-> You can upload and embed screenshots of your n8n workflow here:
-
-```markdown
-![n8n Workflow Screenshot](images/n8n-youtube-workflow.png)
 ```
 
 ---
