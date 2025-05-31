@@ -44,7 +44,7 @@ The automation is broken down into 4 main sections:
 
 1. **Switch** – Branches the logic depending on success/failure.
 2. **Wait (30 sec)** – Adds a buffer before retries or error handling.
-3. **Error Log** – Saves error details back into a Google Sheet.
+3. **Error Log** – Saves error details back into a Google Sheet.[image alt](image_https://github.com/adaezeilo/youtube-ai-agent/blob/b6c4651eeb4a8a5b09c50c77426fe64321b0e7ed/Error%20log.png)
 
 ---
 
