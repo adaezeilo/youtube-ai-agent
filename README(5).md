@@ -35,7 +35,7 @@ The automation is broken down into 4 main sections:
 ## GENERATE FULL VIDEOS
 
 1. **HTTP Request** – Sends data to the json2video API to generate the video.[image alt](image_https://github.com/adaezeilo/youtube-ai-agent/blob/8182ce896f6f9d1b643ccb244f7b38a4a22d4f53/http%20request.png)
-2. **Wait (120 sec)** – Waits for the video to finish rendering.
+2. **Wait (120 sec)** – Waits for the video to finish rendering.[image alt](img_https://github.com/adaezeilo/youtube-ai-agent/blob/f69882315fcc675e9a8486e8b518b126e392e3b9/wait(120).png)
 3. **HTTP Request1** – Polls or retrieves the completed video file.[image alt](image_https://github.com/adaezeilo/youtube-ai-agent/blob/2c46b48c03660bb23732452ecfd5e39527a17c25/Http%20request1.png)
 
 ---
