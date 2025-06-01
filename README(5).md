@@ -50,7 +50,7 @@ The automation is broken down into 4 main sections:
 
 ---
    - Generate YouTube video scripts![idea](https://github.com/adaezeilo/youtube-ai-agent/blob/9c3a219d234ab1bb4d9d7267cd776b98a147806c/idea.png)
-   - Create prompts for visuals
+   - Create prompts for visuals![structuredoutput paser](https://github.com/adaezeilo/youtube-ai-agent/blob/05dfd71ca7f2cc17ea533bf7fe5fcecaacb6a2b9/Structuredoutput%20paser.png)
 
 ---
 
